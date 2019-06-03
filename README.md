@@ -1,5 +1,5 @@
 # LRUCache
-LRUCache code with REST APIs
+LRUCache code with REST APIs.
 Assumptions : Built as a service, so exceptions are returned to the client
 
 Uses HashMap and Doubly LinkedList.
