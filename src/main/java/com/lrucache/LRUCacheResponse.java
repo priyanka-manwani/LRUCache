@@ -3,6 +3,7 @@ package com.lrucache;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 
+
 public class LRUCacheResponse {
 
     enum ResponseStatus{HIT,MISS,EVICTED,PUT_SUCCESSFUL}
